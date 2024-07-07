@@ -1,0 +1,42 @@
+[
+    {
+        "template": "Once upon a time in a {adjective} {place}, there lived a {noun} who loved to {verb}. One day, they decided to {action} and ventured into a {adjective} {place2}. Along the way, they met a {adjective2} {noun2} who helped them {verb2}. Together, they discovered the {noun3} of {place3}.",
+        "words": ["adjective", "place", "noun", "verb", "action", "place2", "adjective2", "noun2", "verb2", "noun3", "place3"]
+    },
+    {
+        "template": "In the mystical land of {place}, a {adjective} {noun} discovered an ancient {noun2} that could {verb} the {noun3} of {place2}. Determined to {action}, they embarked on a journey through {adjective2} {place2}, facing {noun4} and meeting {adjective3} {noun3} who guided them to {place3}.",
+        "words": ["place", "adjective", "noun", "noun2", "verb", "noun3", "place2", "action", "adjective2", "noun4", "adjective3", "place3"]
+    },
+    {
+        "template": "A {adjective} {noun} from {place} dreamed of becoming a {noun2}. They trained hard in {adjective2} {place2} to {verb} and prove themselves. Along the way, they met {noun3} and discovered the {noun4} that would change their {noun5} forever.",
+        "words": ["adjective", "noun", "place", "noun2", "adjective2", "place2", "verb", "noun3", "noun4", "noun5"]
+    },
+    {
+        "template": "In the bustling city of {place}, a group of {noun} uncovered a {adjective2} {noun2} that could {verb} the {noun3} of {place2}. They faced {noun4} and ventured into {place3} to find the {noun5} guarded by {adjective3} {noun6}.",
+        "words": ["place", "noun", "adjective2", "noun2", "verb", "noun3", "place2", "noun4", "place3", "noun5", "adjective3", "noun6"]
+    },
+    {
+        "template": "Deep in the {adjective} {place}, a {adjective2} {noun} discovered a {adjective3} {noun2} that could {verb} the {noun3} of {place2}. They embarked on a perilous journey through {place3}, meeting {noun4} and encountering {adjective4} {noun5} who showed them the path to {place4}.",
+        "words": ["adjective", "place", "adjective2", "noun", "adjective3", "noun2", "verb", "noun3", "place2", "place3", "noun4", "adjective4", "noun5", "place4"]
+    },
+    {
+        "template": "In the enchanted {place}, a {adjective} {noun} discovered a magical {noun2} that granted {action} to anyone who {verb}. They set out on a {adjective2} adventure through {place2}, encountering {noun3} and facing {adjective3} {noun4} who guarded the {noun5} of {place3}.",
+        "words": ["place", "adjective", "noun", "noun2", "action", "verb", "adjective2", "place2", "noun3", "adjective3", "noun4", "noun5", "place3"]
+    },
+    {
+        "template": "In the ancient kingdom of {place}, a {adjective} {noun} sought the {noun2} that could {verb} the {noun3} of {place2}. They encountered {adjective2} {noun3} and traveled through {place3} to find the {adjective3} {noun4} guarded by {noun5}.",
+        "words": ["place", "adjective", "noun", "noun2", "verb", "noun3", "adjective2", "place2", "place3", "adjective3", "noun4", "noun5"]
+    },
+    {
+        "template": "On the outskirts of {place}, a {adjective} {noun} stumbled upon a mysterious {noun2} that {action} every {time}. They embarked on a {adjective2} journey to {place2}, meeting {noun3} and discovering the {noun4} that would {verb} their {noun5}.",
+        "words": ["place", "adjective", "noun", "noun2", "action", "time", "adjective2", "place2", "noun3", "noun4", "verb", "noun5"]
+    },
+    {
+        "template": "WESLEY'S STORY: One morning me and my {noun} were {verb} a game called {noun2}. I won by a lot. {noun3} is a game where you have to {verb2} 5 dice and you're {verb3} get certain kinds of numbers and if you get the same number 5 in a {noun4} you get a Yahtzee!",
+        "words": ["noun", "verb", "noun2", "noun3", "verb2", "verb3", "noun4"]
+    },
+    {
+        "template": "RYAN'S STORY:  ONCE UPON A TIME THERE WAS A {noun} NAMED {nameofperson}. HE WAS THE {adjective} KID IN {place} BUT THAT CHANGED AS HE {verb2} {adverb}. HE GOT {verb3} BY {noun2} AND HE TURNED INTO THE {noun3}. HE EVENTUALLY WAS THE {adjective2} MAN ALIVE. THE END",
+        "words": ["noun", "nameofperson", "adjective", "place", "verb2", "adverb", "verb3", "noun2", "noun3", "adjective2"]
+    }
+]
