@@ -25,4 +25,4 @@ def story():
     return render_template('story.html', story=filled_story)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
