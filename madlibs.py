@@ -2,7 +2,7 @@ import random
 import json
 from flask import Flask, render_template, request
 
-app = Flask(__name__)
+app = Flask('__name__', template_folder='')
 
 # Load stories from JSON file
 def load_stories():

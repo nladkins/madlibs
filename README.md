@@ -1,2 +1,0 @@
-# madlibs
-Fun Kids Activity
