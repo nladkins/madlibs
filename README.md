@@ -5,11 +5,3 @@ This is a Mad Libs game developed using Flask and deployed on Heroku.  Someone c
 ## Developed by
 
 Ryan and Wesley A.
-
-## Play the Game
-
-You can play the game [here](https://ryan-wesley-e0c69c35467b.herokuapp.com).
-
-## View on GitHub
-
-You can view the repository on GitHub [here](https://github.com/nladkins/madlibs).
